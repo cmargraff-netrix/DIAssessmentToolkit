@@ -1,4 +1,5 @@
-# DIAssessmentToolkit
+# Data Intelligence Assessment Toolkit
+
 Guidance and tooling for performing a Data Intelligence infrastructure assessment
 
 ## Get Started
